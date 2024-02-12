@@ -2,6 +2,9 @@
 
 Setup scripts to create a Domino Model Monitoring for external models.
 
+<p align="center">
+<img src = https://github.com/ddl-udaysk/DMM-External-Quick-Setup/blob/main/readme_images/dmm_Overview.png width="800">
+</p>
 
 
 
